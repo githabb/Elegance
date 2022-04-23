@@ -1,0 +1,14 @@
+@import "./blocks//base.css";
+@import "./blocks/nav.css";
+@import "./blocks/header.css";
+@import "./blocks/buttons.css";
+@import "./blocks/section-header.css";
+@import "./blocks/product.css";
+@import "./blocks/info-section.css";
+@import "./blocks/post.css";
+@import "./blocks/subscribe-from.css";
+@import "./blocks/footer.css";
+
+header, .section-new, .info-section, .section-featured, .section-blog, .section-subscribe, .footer{
+    display: none;
+}
